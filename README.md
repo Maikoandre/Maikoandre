@@ -37,6 +37,3 @@ Hi,I'm Maiko André, but you can call me Maiko. Currently doing Systems Analysis
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maikoandre&show_icons=true&locale=en&hide_border=true" alt="nikita" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maikoandre&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
-
-
-<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
