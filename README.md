@@ -17,6 +17,10 @@ Hi,I'm Maiko André, but you can call me Maiko. Currently doing Systems Analysis
 - ❤️ I have a passion for games, animes and novels
 - 🏊 **I'm currently improving my skills on**<br>
 ![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)
+![Java](https://img.shields.io/badge/Java-21-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+![JDBC](https://img.shields.io/badge/JDBC-4.2-green)
+
 
 ### Languages and Tools :
 
