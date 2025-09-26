@@ -38,5 +38,4 @@ Hi,I'm Maiko André, but you can call me Maiko. Currently doing Systems Analysis
   
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maikoandre&show_icons=true&locale=en&hide_border=true" alt="nikita" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maikoandre&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
