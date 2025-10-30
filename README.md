@@ -31,9 +31,3 @@ Hi,I'm Maiko André, but you can call me Maiko. Currently doing Systems Analysis
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <br>
 <br>
- 
-<h2>ℹ️ &nbsp;Github Info</h2>
-
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maikoandre&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
