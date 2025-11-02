@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maikoandre&label=Profile%20views&color=0e75b6&style=flat" alt="maikoandre" /> </p>
 
-- 🔭 I’m currently working on analysing data of SUS [DataSUS-Project](https://github.com/Maikoandre/Data-SUS-Project.git)
+- 🔭 I’m currently working on analysing data of SUS [DataSUS Project]([https://github.com/Maikoandre/Data-SUS-Project.git](https://github.com/Maikoandre/DataSUS-Analysis.git))
 
 - 🌱 I’m currently learning **Django, Pandas, Matplotlib, Seaborn, Golang and Functional Programming with JavaScript.**
 
