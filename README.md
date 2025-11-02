@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on analysing data of SUS [DataSUS-Analysis]([https://github.com/Maikoandre/Data-SUS-Project.git](https://github.com/Maikoandre/DataSUS-Analysis.git))
 
-- 🌱 I’m currently learning **Django, Pandas, Matplotlib, Seaborn, Golang and Functional Programming with JavaScript.**
+- 🌱 I’m currently learning **Django, Data Science and Functional Programming.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maikoandre](https://github.com/Maikoandre)
 
