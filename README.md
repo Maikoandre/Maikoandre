@@ -1,5 +1,7 @@
 # 💫 About Me:
-Atualmente estou trabalhando no Atmospheric, um aplicativo de previsão do tempo que usa a API do OpenWeather.<br><br>Estou aprendendo ciencias de dados por meio de projetos, atualmente estou fazendo o desafio do Kaggle Titanic Survival Prediction.
+Atualmente, dedico-me ao desenvolvimento do Atmospheric, um app de previsão do tempo integrado à API do OpenWeather.
+
+Expandindo meus horizontes em Data Science, estou explorando análise preditiva através do desafio Titanic Survival Prediction no Kaggle.
 
 
 ## 🌐 Socials:
