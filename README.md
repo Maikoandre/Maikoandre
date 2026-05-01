@@ -1,4 +1,4 @@
-## Bem vindo(a)
+## <img src="./uicons/fonte-de-icone-de-user-gratis.svg" width="32" align="center"> Bem vindo(a)
 
 Meu nome é [**Maiko André**](https://github.com/Maikoandre),tenho 20 anos e curso Análise e Desenvolvimento de Sistemas no [**IF Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso estudo análise de dados, IA e automação. Gosto de World-building, novels e pão de queijo. Almejo ser um cientista de dados.
 
@@ -7,7 +7,7 @@ Meu nome é [**Maiko André**](https://github.com/Maikoandre),tenho 20 anos e cu
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](https://www.linkedin.com/in/maiko-andre/)
 
 
-## Tech Stack
+## <img src="./uicons/fonte-de-icone-de-tool-box-gratis.svg" width="32" align="center"> Tech Stack
 
 ### 📱 Mobile
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -60,7 +60,7 @@ Meu nome é [**Maiko André**](https://github.com/Maikoandre),tenho 20 anos e cu
 ### 📝 Tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-## 📊 GitHub Stats:
+## <img src="./uicons/fonte-de-icone-de-stats-gratis.svg" width="32" align="center"> GitHub Stats:
 
 
 <p align="left">
