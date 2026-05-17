@@ -3,6 +3,8 @@
 
 Meu nome é [**Maiko André**](https://github.com/Maikoandre), tenho 20 anos e curso Análise e Desenvolvimento de Sistemas no [**IF Baiano - Campus Guanambi**](https://www.ifbaiano.edu.br/unidades/guanambi/). Além disso estudo análise de dados, IA e automação. Gosto de World-building, novels e pão de queijo. Almejo ser um cientista de dados.
 
+Tenho experiência em automação e desenvolvimento de agentes de IA utilizando o n8n. Também atuo na análise de dados com Python, Pandas e Plotly. Além disso, desenvolvo sistemas web com o framework Django e aplicativos mobile com Flutter. Possuo experiência em modelagem de dados, tanto em bancos relacionais, como PostgreSQL, quanto em bancos não relacionais, como MongoDB.
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](mailto:maikosousa.tech@gmail.com)
 [![Instagram](https://img.shields.io/badge/haikoandrey-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](https://www.instagram.com/haikoandrey/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F6FEB&color=1F6FEB)](https://www.linkedin.com/in/maiko-andre/)
