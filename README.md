@@ -20,11 +20,3 @@ Tenho experiência em automação e desenvolvimento de agentes de IA utilizando 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maikoandre&theme=dark" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Maikoandre&label=Perfil%20Visitado&color=12&icon=5&pretty=true" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
