@@ -12,7 +12,7 @@ Tenho experiência em automação e desenvolvimento de agentes de IA utilizando 
 
 ## <img src="./uicons/fonte-de-icone-de-tool-box-gratis.svg" width="32" align="center"> Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,sklearn,anaconda,django,postgres,mongodb,nginx,redis,rabbitmq,flutter,fastapi,git,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,anaconda,django,postgres,mongodb,nginx,redis,rabbitmq,flutter,fastapi,git,linux,docker)](https://skillicons.dev)
 
 ## <img src="./uicons/fonte-de-icone-de-stats-gratis.svg" width="32" align="center"> GitHub Stats:
 
